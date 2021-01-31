@@ -1,0 +1,11 @@
+body
+{
+    background: url(../imagenes/fondos/fondo1.png);
+    background-attachment: fixed;
+}
+h1
+{
+    background:#0ACF5D ;
+    font-size: 50px;
+    
+}
