@@ -19,7 +19,7 @@ h1
 .principal
 {   width: 100%; ;
     height: 120px ;
-    background:#92adf7 ;
+    background:#92adf76c ;
     position: relative;
     
 }
@@ -44,8 +44,8 @@ h1
 }
 .diseños3d
 {
-    background:#92adf7 ;
-    width: 90px;
+    background:#92adf7ad ;
+    width: 95px;
     height:28px;
     font-size: 10px;
     margin: 2px;
@@ -62,7 +62,7 @@ h1
 }
 .info1
 {
-    background:#1cddbd ;
+    background:#4bc0b698 ;
     font-size: 20px;
     width: 50%;
     margin:10px;
