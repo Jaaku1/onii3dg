@@ -1,2 +1,2 @@
 # onii3dg
-mi primera pagina en github
+Diseño 3D
