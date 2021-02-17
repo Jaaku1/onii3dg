@@ -3,3 +3,17 @@ body
      background: url(../imagenes/fondos/fondo1.png);
      background-attachment: fixed;
 }
+.pantalla1
+{
+     background-color: #18151573;
+     position: relative;
+     height: 100px;
+
+}
+.pantalla2
+{
+     color: #ffffff;
+     font-size: 40px;
+     text-align: center;
+     
+}

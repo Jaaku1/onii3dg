@@ -1,0 +1,36 @@
+body{
+    background:url(../Imagenes/Fondos/02FP.jpg);
+    background-attachment: fixed;  
+}
+
+h1{
+    
+    background: #40E6DE;
+    color:#992383;
+    width: 150px;
+    height: 20px;
+    margin: 2px;
+    padding: 2%;
+    border: outset;
+}
+h2{
+    width: 100px;
+    height: 100px;
+    background: #992383;
+    color: aliceblue;
+    font-size: 30px;
+}
+.caja{
+    position: relative;
+    top: 200px;
+    bottom: ;
+    right: ;
+    left:50% ;
+}
+.video1{
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left:30% ;
+}
